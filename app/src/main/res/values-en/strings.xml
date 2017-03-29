@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bracelets App</string>
+    <string name="ancla">Anchor</string>
+    <string name="calcular">Calculate</string>
+    <string name="cantidad">Quantity</string>
+    <string name="cuerda">Rope</string>
+    <string name="cuero">Leather</string>
+    <string name="dolar">Dollar</string>
+    <string name="martillo">Hammer</string>
+    <string name="moneda">Coin</string>
+    <string name="niquel">Nickel</string>
+    <string name="oro">Gold</string>
+    <string name="oroRosado">Pink Gold</string>
+    <string name="plata">Silver</string>
+    <string name="radio1">Pesos</string>
+    <string name="xyz">XYZ</string>
+    <string name="resultado">Price to pay</string>
+</resources>
